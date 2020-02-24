@@ -22,15 +22,19 @@ text: |
   + Malware analysis & Reverse engineering
     - 'Malicious code discrimination system based on API call sequence of malicious code' [ Copyright registration](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbeyWwx%2FbtqCd0CZnvP%2FXPH3EU3YMIJEbU6kry1HFK%2Fimg.png)
     - Anti-Reversing bypass research
-      * Python scripts editing of [Cuckoo Sandbox](https://cuckoosandbox.org/) for printing (executed instrucutions / total instuructions)
-      * Write thesis about Anti-Reversing skills based on API
       * [Branch Observation Tool (B.O.T)] (https://github.com/MetaSwan/pin-B.O.T)
-    - Research for classifying malware families to using code coverage softwares
+      * Wrote thesis about Anti-Reversing skills based on API
+      * Python scripts editing of [Cuckoo Sandbox](https://cuckoosandbox.org/) for printing (executed instrucutions / total instuructions)          
     - Malicious mail analyst in Republic of Korea Army's cyber defense department
+    - Research for classifying malware families to using code coverage softwares
+    - Online lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZciVGUU)
+    
     
   + Pentest
     - [StageFright](https://lesh.tistory.com/33?category=144050) vulnerability test to AndroidWear OS in 'SmartWatch Security Threat Identification Study with AndroidWear' at NSR (National Security Research Institute)
     - Smart car key's RF signal analysis for in 'Research on vulnerability of car and wireless keyboard using RF communication' at Yeungnam University [Vid1](https://youtu.be/LwKrew30-IQ)[ Vid2](https://youtu.be/U6QA7cTYrpg)
+    - Drone's zigbee signal analysis for 'Zigbee protocol analysis technology research' at NSR
+    
   
   Unordered
 
