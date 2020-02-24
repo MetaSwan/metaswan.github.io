@@ -42,7 +42,7 @@ text: |
     - Build IDS cluster using [Bro(now changed to Zeek)](https://www.zeek.org/) and visualization for 'Traffic distribution control system for Super Computer 5' at KISTI Super Computer Center [Vid1](https://youtu.be/MeiyultrHW0)
     - Developed 'Attendance System for foreign language course' at Yeungnam University (DBMS: Mysql, Language: PHP)
     - Server admin and build IDS/IPS using [Suricata](https://suricata-ids.org/) for [@Xpert](http://2xpert.org)
-    - Made video lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZclVGUU)
+    - Made video lecture ["How to use wireshark for newbie"](https://www.youtube.com/embed/hZtzZcIVGUU)
         
         
   + Pentest
