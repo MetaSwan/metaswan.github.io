@@ -41,7 +41,7 @@ text: |
     - KISTI 슈퍼컴퓨터 센터에서 '슈퍼컴퓨터 5호기에 대한 트래픽 분산 관제 시스템 점검 및 구축 방안' 연구과제로 [Bro(now changed to Zeek)](https://www.zeek.org/)를 이용한 IDS 클러스터 구축 및 시각화 [Vid1](https://youtu.be/MeiyultrHW0)
     - 영남대학교 외국어 학당 출석 시스템 개발 (DBMS: Mysql, Language: PHP)
     - [@Xpert](http://2xpert.org) 서버 관리자 및 [Suricata](https://suricata-ids.org/) IDS/IPS 구축
-    - ["How to use wireshark for newbie"](https://youtu.be/hZtzZclVGUU)
+    - ["How to use wireshark for newbie"](https://www.youtube.com/embed/hZtzZcIVGUU)
         
         
   + 침투 테스트
