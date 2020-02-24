@@ -17,11 +17,14 @@ text: |
       * Researcher of Software structure and security Lab
       * Teaching Assistant of Logic circuit, System & Network security, Web programming class
       
+      
   - 2014.7 "Principle and response of web hacking attack" by [KISA (Korea Internet & Security Agency) Academy ](https://academy.kisa.or.kr/main.kisa)
   - 2014.8 "Infringement Incident Response Practice" by KISA Academy
   - 2015.8 "Digital Forensics" Completion by KISA Academy
   
+  
   ## Skills
+  
   
   + Malware analysis & Reverse engineering
     - 'Malicious code discrimination system based on API call sequence of malicious code' [ Copyright registration](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbeyWwx%2FbtqCd0CZnvP%2FXPH3EU3YMIJEbU6kry1HFK%2Fimg.png)
@@ -32,30 +35,46 @@ text: |
     - Malicious mail analyst in Republic of Korea Army's cyber defense department
     - Research for classifying malware families to using code coverage softwares
     
+    
   + Server & Network managing    
     - Build IDS cluster using [Bro(now changed to Zeek)](https://www.zeek.org/) and visualization for 'Traffic distribution control system for Super Computer 5' at KISTI Super Computer Center [Vid1](https://youtu.be/MeiyultrHW0)
     - Developed 'Attendance System for foreign language course' at Yeungnam University (DBMS: Mysql, Language: PHP)
     - Server admin and build IDS/IPS using [Suricata](https://suricata-ids.org/) for [@Xpert](http://2xpert.org)
     - Made video lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZclVGUU)
         
+        
   + Pentest
     - [StageFright](https://lesh.tistory.com/33?category=144050) vulnerability test to AndroidWear OS in 'SmartWatch Security Threat Identification Study with AndroidWear' at NSR (National Security Research Institute)
     - Smart car key's RF signal analysis for in 'Research on vulnerability of car and wireless keyboard using RF communication' at Yeungnam University [Vid1](https://youtu.be/LwKrew30-IQ)[ Vid2](https://youtu.be/U6QA7cTYrpg)
     - Drone's zigbee signal analysis for 'Zigbee protocol analysis technology research' at NSR
     
+    
   + Digital Forensics
     - Windows Jump list parser
     - Digital Forensic Challenge 2018 [World 5th, Domestic 4th](http://dfchallenge.org/ranking-2018/) Team : XyzzyShift
   
+  
   + AI (Deep learning)
     - Still working..
+  
   
   + Awarded
     - Republic of Korea Army Cyber defense competition, 3rd, 2-Star general award 
     
+    
   + Presentations
     - 2015.5  ['64bits Stripped ELF Reversing' topic at the KUCIS (Korea University Clubs Information Security) SeoGyeongGang Seminar hosted by the National Police Agency and KISA](https://www.facebook.com/www.4cus.so/posts/1585730265008567/)
     - 2016.9  'Let's hack wireless devices' topic at KUCIS SeoGyeongGang Seminar hosted by the National Police Agency and KISA
+  
+  
+  + Eng to Kor Translations
+    - [The Gost Vulnerability](https://lesh.tistory.com/25?category=144050)
+    - [Experts Found a Unicorn in the Heart of Android](https://lesh.tistory.com/33?category=144050)
+    - [SECUINSIDE CTF 2013 Write-Up by PPP](https://lesh.tistory.com/3?category=87878)
+    - [2016 Holyshield Write-up](https://lesh.tistory.com/40?category=87878)
+    - [64bits stack based buffer overflow](https://lesh.tistory.com/32?category=87877)
+    - [Exploit IE Using Scriptable ActiveX Controls](https://lesh.tistory.com/2?category=87877)
+
   
   Unordered
 
