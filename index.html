@@ -5,6 +5,6 @@ comments: true
 ---
 
 <div class="text-center">
-  <a href="{{ "/about" | prepend:site.baseurl }}"><img class="circular" src="{{page.welcome_img}}" ></a>
+  <a href={{ '/about/' | prepend: site.baseurl | replace: '//', '/' }}><img class="circular" src="{{page.welcome_img}}" ></a>
   <p>contact me <a href="mailto:{{site.email.address}}">{{site.email.text}}</a></p>
 </div>
