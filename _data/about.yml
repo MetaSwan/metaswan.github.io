@@ -37,8 +37,7 @@ text: |
     - Developed 'Attendance System for foreign language course' at Yeungnam University (DBMS: Mysql, Language: PHP)
     - Server admin and build IDS/IPS using [Suricata](https://suricata-ids.org/) for [@Xpert](http://2xpert.org)
     - Made video lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZclVGUU)
-    
-    
+        
   + Pentest
     - [StageFright](https://lesh.tistory.com/33?category=144050) vulnerability test to AndroidWear OS in 'SmartWatch Security Threat Identification Study with AndroidWear' at NSR (National Security Research Institute)
     - Smart car key's RF signal analysis for in 'Research on vulnerability of car and wireless keyboard using RF communication' at Yeungnam University [Vid1](https://youtu.be/LwKrew30-IQ)[ Vid2](https://youtu.be/U6QA7cTYrpg)
@@ -46,7 +45,17 @@ text: |
     
   + Digital Forensics
     - Windows Jump list parser
-    - Digital Forensic Challenge 2018 [World 5th, Domestic 4th](http://dfchallenge.org/ranking-2018/)
+    - Digital Forensic Challenge 2018 [World 5th, Domestic 4th](http://dfchallenge.org/ranking-2018/) Team : XyzzyShift
+  
+  + AI (Deep learning)
+    - Still working..
+  
+  + Awarded
+    - Republic of Korea Army Cyber defense competition, 3rd, 2-Star general award 
+    
+  + Presentations
+    - 2015.5  ['64bits Stripped ELF Reversing' topic at the KUCIS (Korea University Clubs Information Security) SeoGyeongGang Seminar hosted by the National Police Agency and KISA](https://www.facebook.com/www.4cus.so/posts/1585730265008567/)
+    - 2016.9  'Let's hack wireless devices' topic at KUCIS SeoGyeongGang Seminar hosted by the National Police Agency and KISA
   
   Unordered
 
