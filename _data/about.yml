@@ -1,9 +1,24 @@
 text: |
 
-  Write something about yourself here using markdown.
+  
+  +Malware researcher
+  +Reverse engineer
+  +Digital forensicator
+  +AI Developer
 
-  ## Lists
-
+  ## Educations
+  
+  2013 ~ 2017 B.En. Computer Engineering 
+    - [YoungNam university](yu.ac.kr)
+      + Member of @Xpert (Security research club)
+      + Intern of Software security and optimization Lab
+  2017 ~ 2019 Complete a course in M.En. Computer Engineering 
+    - [ChungNam university](cnu.ac.kr)
+      + Researcher of Software structure and security Lab
+      + Teaching Assistant of Logic circuit, Computer security, Web programming class
+  
+  ## Skills
+  
   Unordered
 
   + Create a list by starting a line with `+`, `-`, or `*`
