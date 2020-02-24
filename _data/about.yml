@@ -16,6 +16,10 @@ text: |
     - [ChungNam university](http://cnu.ac.kr)
       * Researcher of Software structure and security Lab
       * Teaching Assistant of Logic circuit, Computer security, Web programming class
+      
+  - 2014.7 "Principle and response of web hacking attack" by [KISA (Korea Internet & Security Agency) Academy ](https://academy.kisa.or.kr/main.kisa)
+  - 2014.8 "Infringement Incident Response Practice" by KISA Academy
+  - 2015.8 "Digital Forensics" Completion by KISA Academy
   
   ## Skills
   
@@ -27,7 +31,12 @@ text: |
       * Python scripts editing of [Cuckoo Sandbox](https://cuckoosandbox.org/) for printing (executed instrucutions / total instuructions)          
     - Malicious mail analyst in Republic of Korea Army's cyber defense department
     - Research for classifying malware families to using code coverage softwares
-    - Online lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZciVGUU)
+    
+  + Server & Network managing
+    - Made video lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZciVGUU)
+    - Build IDS cluster using [Bro(now changed to Zeek)](https://www.zeek.org/) and visualization 'Traffic distribution control system for Super Computer 5' at KISTI Super Computer Center [Vid](https://youtu.be/MeiyultrHW0)
+    - Developed 'Attendance System for foreign language course' at Yeungnam University (DBMS: Mysql, Development Language: PHP)
+    - Server admin and build IDS/IPS using [Suricata](https://suricata-ids.org/) for [@Xpert](http://2xpert.org)
     
     
   + Pentest
