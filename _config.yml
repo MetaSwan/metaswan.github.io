@@ -7,7 +7,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: MetaSwan's Lab
-header: Malware researcher, Reverse engineer, Digital forensicator, AI Developer.
+header: Malware researcher, Reverse engineer, Digital forensicator, AI developer.
 
 # for welcome page
 # to replace image go to index.html
