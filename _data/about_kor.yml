@@ -1,0 +1,98 @@
+text: |
+  * 03.26.94 M
+  * 이승환 (Lee SeungHwan / Swan Lee)
+  
+    + Malware researcher
+    + Reverse engineer
+    + Digital forensicator
+    + AI developer
+    
+  ## 학력 및 교육 수료
+  
+  + 2013 ~ 2017 B.En. Computer Engineering 
+    - [영남대학교](http://yu.ac.kr)
+      * 정보보안학회(동아리) [@Xpert](http://2xpert.org) 소속
+      * Software security and optimization 연구실 인턴
+  + 2017 ~ 2019 M.En. Computer Engineering 수료
+    - [충남대학교](http://cnu.ac.kr)
+      * Software structure and security 연구실 연구원
+      * 논리회로, 시스템 및 네트워크 보안, 웹 프로그래밍 수업 조교
+      
+      
+  - 2014.7 '웹 해킹 공격의 원리 및 대응' [KISA (Korea Internet & Security Agency) Academy ](https://academy.kisa.or.kr/main.kisa)
+  - 2014.8 '침해사고 대응실무' by KISA Academy
+  - 2015.8 '디지털 포렌식' by KISA Academy
+  
+  
+  ## 기술
+  
+  
+  + 악성코드 분석 & 리버스 엔지니어링
+    - 안티 리버싱 우회 연구
+      * [Branch Observation Tool (B.O.T)](https://github.com/MetaSwan/pin-B.O.T)
+      * API 기반 안티 리버싱 기술에 대한 논문 작성
+      * (executed instrucutions / total instuructions) 출력을 통해 악성코드 정상 분석 여부를 판단하기 위한 [Cuckoo Sandbox](https://cuckoosandbox.org/) 파이썬 스크립트 수정
+    - 대한민국 육군 사이버방호실에서 악성코드 분석 작업
+    - 코드 커버리지를 이용한 악성 여부 및 분류 판별 연구
+    - '악성코드의 동적 함수 호출 빈도(API call sequence)에 기반을 둔 악성 여부 판별 시스템 개발' 저작권 등록 [ Copyright registration](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbeyWwx%2FbtqCd0CZnvP%2FXPH3EU3YMIJEbU6kry1HFK%2Fimg.png)
+    
+    
+  + 서버 및 네트워크 관리
+    - KISTI 슈퍼컴퓨터 센터에서 '슈퍼컴퓨터 5호기에 대한 트래픽 분산 관제 시스템 점검 및 구축 방안' 연구과제로 [Bro(now changed to Zeek)](https://www.zeek.org/)를 이용한 IDS 클러스터 구축 및 시각화 [Vid1](https://youtu.be/MeiyultrHW0)
+    - 영남대학교 외국어 학당 출석 시스템 개발 (DBMS: Mysql, Language: PHP)
+    - [@Xpert](http://2xpert.org) 서버 관리자 및 [Suricata](https://suricata-ids.org/) IDS/IPS 구축
+    - ["How to use wireshark for newbie"](https://youtu.be/hZtzZclVGUU)
+        
+        
+  + 침투 테스트
+    - NSR (National Security Research Institute)의 '안드로이드 웨어가 탑재된 스마트 와치 보안 위협 식별 연구' 과제에서 AndroidWearOS의 [StageFright](https://lesh.tistory.com/33?category=144050) 취약점 테스트
+    - 영남대학교의 'RF 통신을 이용한 자동차, 무선 키보드 취약점 연구' 에서 자동차 스마트키 RF 신호 수집 및 분석 [Vid1](https://youtu.be/LwKrew30-IQ)[ Vid2](https://youtu.be/U6QA7cTYrpg)
+    - NSR의 'Zigbee 프로토콜 분석 기술 연구' 드론의 Zigbee 통신 패킷 수집 및 분석
+    
+    
+  + 디지털 포렌식
+    - Windows Jump list parser 제작
+    - Digital Forensic Challenge 2018 [World 5th, Domestic 4th](http://dfchallenge.org/ranking-2018/) Team : XyzzyShift
+  
+  
+  + AI (Deep learning)
+    - 작업 중..
+  
+  
+  + 수상
+    - 육군 사이버방어 경진대회, 3등, 2성 장군 상장
+    
+    
+  + 발표
+    - 2015.5  [경찰청 및 KISA 주관 KUCIS (Korea University Clubs Information Security) 서경강 세미나에서 '64bits Stripped ELF Reversing' 주제로 발표](https://www.facebook.com/www.4cus.so/posts/1585730265008567/)
+    - 2016.9  경찰청 및 KISA 주관 KUCIS 서경강 세미나에서 '무선 장비를 해킹해보자' 주제로 발표
+  
+  
+  + 영어 기술문서 번역
+    - [The Gost Vulnerability](https://lesh.tistory.com/25?category=144050)
+    - [Experts Found a Unicorn in the Heart of Android](https://lesh.tistory.com/33?category=144050)
+    - [SECUINSIDE CTF 2013 Write-Up by PPP](https://lesh.tistory.com/3?category=87878)
+    - [2016 Holyshield Write-up](https://lesh.tistory.com/40?category=87878)
+    - [64bits stack based buffer overflow](https://lesh.tistory.com/32?category=87877)
+    - [Exploit IE Using Scriptable ActiveX Controls](https://lesh.tistory.com/2?category=87877)
+    
+  ## 취미
+  
+    - All of cultural things (Movie, Music, Reading, Arts etc..) especially classics!
+    - 여행
+      + Hongkong
+      + Macau
+      + Singapore
+      + Japan
+      + Romania
+      + Turkey
+      + Los Angeles
+    - 언어 배우기 (Level 1 to 10)
+      + Korean - Level 10
+      + English - Level 5
+      + Japanese - Level 1
+      + Chinese - Level 1
+      + French - Level 1
+      + Romanian - Level 0
+      + .. 계속 해서 늘려갈 예정!
+      
