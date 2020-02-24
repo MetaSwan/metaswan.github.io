@@ -15,7 +15,7 @@ text: |
   + 2017 ~ 2019 Complete a course in M.En. Computer Engineering 
     - [ChungNam university](http://cnu.ac.kr)
       * Researcher of Software structure and security Lab
-      * Teaching Assistant of Logic circuit, Computer security, Web programming class
+      * Teaching Assistant of Logic circuit, System & Network security, Web programming class
       
   - 2014.7 "Principle and response of web hacking attack" by [KISA (Korea Internet & Security Agency) Academy ](https://academy.kisa.or.kr/main.kisa)
   - 2014.8 "Infringement Incident Response Practice" by KISA Academy
@@ -33,8 +33,8 @@ text: |
     - Research for classifying malware families to using code coverage softwares
     
   + Server & Network managing    
-    - Build IDS cluster using [Bro(now changed to Zeek)](https://www.zeek.org/) and visualization 'Traffic distribution control system for Super Computer 5' at KISTI Super Computer Center [Vid1](https://youtu.be/MeiyultrHW0)
-    - Developed 'Attendance System for foreign language course' at Yeungnam University (DBMS: Mysql, Development Language: PHP)
+    - Build IDS cluster using [Bro(now changed to Zeek)](https://www.zeek.org/) and visualization for 'Traffic distribution control system for Super Computer 5' at KISTI Super Computer Center [Vid1](https://youtu.be/MeiyultrHW0)
+    - Developed 'Attendance System for foreign language course' at Yeungnam University (DBMS: Mysql, Language: PHP)
     - Server admin and build IDS/IPS using [Suricata](https://suricata-ids.org/) for [@Xpert](http://2xpert.org)
     - Made video lecture ["How to use wireshark for newbie"](https://youtu.be/hZtzZclVGUU)
     
@@ -44,6 +44,9 @@ text: |
     - Smart car key's RF signal analysis for in 'Research on vulnerability of car and wireless keyboard using RF communication' at Yeungnam University [Vid1](https://youtu.be/LwKrew30-IQ)[ Vid2](https://youtu.be/U6QA7cTYrpg)
     - Drone's zigbee signal analysis for 'Zigbee protocol analysis technology research' at NSR
     
+  + Digital Forensics
+    - Windows Jump list parser
+    - Digital Forensic Challenge 2018 [World 5th, Domestic 4th](http://dfchallenge.org/ranking-2018/)
   
   Unordered
 
