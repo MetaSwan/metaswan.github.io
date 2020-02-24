@@ -22,7 +22,7 @@ text: |
   + Malware analysis & Reverse engineering
     - 'Malicious code discrimination system based on API call sequence of malicious code' [ Copyright registration](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbeyWwx%2FbtqCd0CZnvP%2FXPH3EU3YMIJEbU6kry1HFK%2Fimg.png)
     - Anti-Reversing bypass research
-      * [Branch Observation Tool (B.O.T)] (https://github.com/MetaSwan/pin-B.O.T)
+      * [Branch Observation Tool (B.O.T)](https://github.com/MetaSwan/pin-B.O.T)
       * Wrote thesis about Anti-Reversing skills based on API
       * Python scripts editing of [Cuckoo Sandbox](https://cuckoosandbox.org/) for printing (executed instrucutions / total instuructions)          
     - Malicious mail analyst in Republic of Korea Army's cyber defense department
