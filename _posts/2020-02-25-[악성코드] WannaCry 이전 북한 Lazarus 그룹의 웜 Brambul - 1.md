@@ -28,12 +28,16 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 ## 파일내 포함 된 문자열
 ---
 ![strings](https://i.imgur.com/xgpGboe.png)
----
-
 위의 정보를 바탕으로 이메일, IP 주소, 레지스트리 변경, 공유폴더 접근, 관련 프로세스 등을 추측할 수 있습니다.
 
 
+## 행위 시작
+---
+![mainfunc](https://i.imgur.com/nLWaVUt.png)
+![findusername](https://i.imgur.com/cKclzgO.png)
+프로그램은 시작하면서 사용자의 이름(PC의 이름)을 가져옵니다. 제 PC의 경우에는 "swan"이라는 값을 가져왔습니다.
+그 후 "gmail.com" 문자열을 스택에 푸쉬하고 다음과 같이 dnsquery를 호출합니다.
 
-
+![](https://i.imgur.com/O0B3XUC.png)
 
 
