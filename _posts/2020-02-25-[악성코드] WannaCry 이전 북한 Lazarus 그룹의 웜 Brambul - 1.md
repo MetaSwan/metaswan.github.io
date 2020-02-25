@@ -36,6 +36,7 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 ## 행위 시작
 ---
 ![mainfunc](https://i.imgur.com/nLWaVUt.png)
+
 ![findusername](https://i.imgur.com/cKclzgO.png)
 
 프로그램은 시작하면서 WSAStartup 함수를 호출하여 네트워크 연결이 가능한지 체크한 뒤
