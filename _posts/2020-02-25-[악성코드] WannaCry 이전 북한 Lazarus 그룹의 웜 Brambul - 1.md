@@ -30,7 +30,9 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 ![strings](https://i.imgur.com/xgpGboe.png)
 ---
 
-파일 내 문자열으로 이메일, IP 주소, 레지스트리 변경, 공유폴더 접근, 관련 프로세스 등을 추측할 수 있습니다.
+위의 정보를 바탕으로 이메일, IP 주소, 레지스트리 변경, 공유폴더 접근, 관련 프로세스 등을 추측할 수 있습니다.
+
+
 
 
 
