@@ -1,8 +1,6 @@
 ---
 title: "[악성코드] WannaCry 이전 북한 Lazarus 그룹의 웜 Brambul - 1"
 tags: [악성코드, 라자루스, 북한, 워너크라이, 웜, malware, wannacry, lazarus, worm, north korea, korean]
-layout : default
-comments : true
 ---
 
 # WannaCry와 Brambul의 관계
