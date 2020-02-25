@@ -54,7 +54,7 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 ![branch](https://i.imgur.com/GhWLwo9.png)
 
 
-## 사용자 이름이 system이 아닐 경우
+## 첫번째 루틴
 ---
 
 이 경우에는 sub_402900 서브루틴을 호출하고, 이 서브루틴은 먼저 몇 번의 GetTickCount 이후 무작위로 IP 주소를 생성합니다.
@@ -71,10 +71,17 @@ SMB 포트로의 접속이 성공하면 IPC와 연결을 시도합니다.
 ![ipcconnect](https://i.imgur.com/Ymvu1X4.png)
 
 IPC까지 연결이 성공하면 관리자계정으로 SCM 데이터베이스에 접근하고 악성행위를 수행합니다.
-1. 정해진 제목으로 whiat1001@gmail.com 으로 SMTP 프로토콜을 이용하여 메일 발송
-2. admin 으로 공유폴더에 접근
-3. Windows Genuine Logon Manager (wglmgr) 접근
 
 ![scm1](https://i.imgur.com/VmvgAtB.png)
 
 ![scm2](https://i.imgur.com/jN1KzYh.png)
+
+>1. 정해진 제목으로 whiat1001@gmail.com 으로 SMTP 프로토콜을 이용하여 메일 발송
+>2. admin 으로 공유폴더에 접근
+>3. Windows Genuine Logon Manager (wglmgr) 서비스 생성
+>4. Microsoft Windows Genuine Updater (wgudtr) 서비스 생성
+>5. crss.exe 실행파일 생성
+
+이렇게 생성된 서비스와 실행파일 통해 자가 복제 및 전파를 하는 것으로 보이며 첫번째 루틴은 종료가 됩니다.
+
+(2편에서 계속)
