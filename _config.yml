@@ -17,7 +17,7 @@ email:
 
 # disqus comment
 disqus:
-    shortname: "Hi" #your disqus comment short name
+    shortname: "hi" #your disqus comment short name
 
 # google analytics
 google:
