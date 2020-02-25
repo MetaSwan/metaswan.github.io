@@ -1,6 +1,8 @@
 ---
 title: "[악성코드] WannaCry 이전 북한 Lazarus 그룹의 웜 Brambul - 1"
 tags: [악성코드, 라자루스, 북한, 워너크라이, 웜, malware, wannacry, lazarus, worm, north korea, korean]
+layout : default
+comments : true
 ---
 
 # WannaCry와 Brambul의 관계
@@ -68,5 +70,11 @@ SMB 포트로의 접속이 성공하면 IPC와 연결을 시도합니다.
 
 ![ipcconnect](https://i.imgur.com/Ymvu1X4.png)
 
-IPC까지 연결이 성공하면 
+IPC까지 연결이 성공하면 관리자계정으로 SCM 데이터베이스에 접근하고 악성행위를 수행합니다.
+1. 정해진 제목으로 whiat1001@gmail.com 으로 SMTP 프로토콜을 이용하여 메일 발송
+2. admin 으로 공유폴더에 접근
+3. Windows Genuine Logon Manager (wglmgr) 접근
 
+![scm1](https://i.imgur.com/VmvgAtB.png)
+
+![scm2](https://i.imgur.com/jN1KzYh.png)
