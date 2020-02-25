@@ -25,7 +25,11 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 따로 패킹이나 난독화는 되어있지않아 분석하기에 쉬운 편입니다.
 덕분에 파일 내 포함 된 문자열만으로 대략적으로 행위를 예측할 수 있습니다.
 
+## 파일내 포함 된 문자열
+---
 ![strings](https://i.imgur.com/xgpGboe.png)
+---
+
 파일 내 문자열으로 이메일, IP 주소, 레지스트리 변경, 공유폴더 접근, 관련 프로세스 등을 추측할 수 있습니다.
 
 
