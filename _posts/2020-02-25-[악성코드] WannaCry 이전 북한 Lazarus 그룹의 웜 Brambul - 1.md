@@ -66,5 +66,7 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 
 SMB 포트로의 접속이 성공하면 IPC와 연결을 시도합니다.
 
+![ipcconnect](https://i.imgur.com/Ymvu1X4.png)
 
+IPC까지 연결이 성공하면 
 
