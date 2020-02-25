@@ -58,11 +58,11 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 이 경우에는 sub_402900 서브루틴을 호출하고, 이 서브루틴은 먼저 몇 번의 GetTickCount 이후 무작위로 IP 주소를 생성합니다.
 그리고 무작위로 생성된 IP로 445포트(SMB포트)로 접속을 시도합니다.
 
-[iptosmb](https://i.imgur.com/bykvnRb.png)
+![iptosmb](https://i.imgur.com/bykvnRb.png)
 
-[445port](https://i.imgur.com/UUWYUUZ.png)
+![445port](https://i.imgur.com/UUWYUUZ.png)
 
-[connections](https://i.imgur.com/5slnWx2.png)
+![connections](https://i.imgur.com/5slnWx2.png)
 
 SMB 포트로의 접속이 성공하면 IPC와 연결을 시도합니다.
 
