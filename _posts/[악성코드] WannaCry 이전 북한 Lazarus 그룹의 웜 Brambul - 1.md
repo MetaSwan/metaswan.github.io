@@ -13,6 +13,7 @@ Lazarus 그룹은 WannaCry 이전에도 이와 유사한 방식으로 동작하�
 WannaCry는 이 Brambul 이라는 웜의 랜섬웨어 형태의 변형이라고 볼 수 있죠.
 
 ![1](https://cdn5.alienvault.com/blog-content/Screen_Shot_2018-02-08_at_5.42.47_PM.png)
+[Integer 사의 기술 보고서에서 발췌](http://www.intezer.com/wp-content/uploads/2017/07/Intezer-WannaCry.pdf)
 
 Brambul은 2009년에 제작된 후 배포되기 시작하였으며 10년이 지난 지금, 다른 악성코드에 비해 위험하다고 볼 수는 없지만 여전히 취약한 버전과 설정의 컴퓨터에는 피해를 줄 수 있습니다.
 
