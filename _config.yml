@@ -17,7 +17,7 @@ email:
 
 # disqus comment
 disqus:
-    shortname: "Leave comment if you want!" #your disqus comment short name
+    shortname: "Leave a comment if you want!" #your disqus comment short name
 
 # google analytics
 google:
