@@ -38,6 +38,12 @@ MD5 :  [f024ff4176f0036f97ebc95decfd1d5e](https://www.hybrid-analysis.com/sample
 프로그램은 시작하면서 사용자의 이름(PC의 이름)을 가져옵니다. 제 PC의 경우에는 "swan"이라는 값을 가져왔습니다.
 그 후 "gmail.com" 문자열을 스택에 푸쉬하고 다음과 같이 dnsquery를 호출합니다.
 
-![](https://i.imgur.com/O0B3XUC.png)
+![dnsquery](https://i.imgur.com/O0B3XUC.png)
+
+이후 다음과 같이 두가지로 분기가 나뉘며 각 분기에 따라 행위가 달라집니다.
+
+![branch](https://i.imgur.com/GhWLwo9.png)
 
 
+## 1번째 행위
+---
