@@ -23,18 +23,21 @@ lsasvc.exe 파일을 생성한 뒤 프로세스를 실행합니다.
 ![401ba0_first](https://i.imgur.com/XqDL9Nk.png)
 
 ![401ba0_second](https://i.imgur.com/wuRTvDI.png)
+
 ---
 
 ### sub_401b30 
 레지스트리 "Software\Microsoft\Windows\CurrentVersion\Run" 경로에 "WindowsUpdate" 라는 이름의 Value를 추가시킴으로써 해당 프로세스가 컴퓨터가 켜질 때마다 자동 실행되도록합니다.
 
 ![401b30](https://i.imgur.com/ps1yBs7.png)
+
 ---
 
 ### sub_401040 
 프로그램 실행의 맨 처음에 수행했던 것과 유사하게 gethostname 함수를 통해 사용자의 이름을 가져옵니다.
 
 ![401040](https://i.imgur.com/AdreJ8I.png)
+
 ---
 
 세개의 서브루틴이 실행 된 이후에는 GetVersion 함수로 운영체제의 버전을 가져옵니다.
@@ -45,6 +48,8 @@ lsasvc.exe 파일을 생성한 뒤 프로세스를 실행합니다.
 이후 whiat1001@gmail.com 문자열을 스택에 푸쉬하고 sub_401430 서브루틴을 호출하여 SMTP 프로토콜을 이용하여 데이터를 전송하고 프로세스는 종료됩니다. sub_401430 에서 SMTP와 메일 헤더 관련 문자열들을 확인할 수 있었습니다.
 
 ![mailstrings](https://i.imgur.com/8i8Zlp5.png)
+
+---
 
 # 행위 결과
 
