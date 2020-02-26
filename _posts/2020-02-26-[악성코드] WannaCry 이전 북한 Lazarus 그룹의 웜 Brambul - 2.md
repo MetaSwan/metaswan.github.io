@@ -7,7 +7,7 @@ tags: [악성코드, 라자루스, 북한, 워너크라이, 웜, malware, wannac
 # 분석
 ---
 
-[악성코드] WannaCry 이전 북한 Lazarus 그룹의 웜 Brambul - 1 에서 이어집니다.
+[[악성코드] WannaCry 이전 북한 Lazarus 그룹의 웜 Brambul - 1](https://metaswan.github.io/posts/%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-WannaCry-%EC%9D%B4%EC%A0%84-%EB%B6%81%ED%95%9C-Lazarus-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EC%9B%9C-Brambul-1) 에서 이어집니다.
 
 ## 두번째 루틴
 ---
