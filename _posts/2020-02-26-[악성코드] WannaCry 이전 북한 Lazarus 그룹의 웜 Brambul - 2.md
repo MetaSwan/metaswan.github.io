@@ -45,7 +45,7 @@ lsasvc.exe 파일을 생성한 뒤 프로세스를 실행합니다.
 
 ![getversion](https://i.imgur.com/tf9xlZV.png)
 
-이후 whiat1001@gmail.com 문자열을 스택에 푸쉬하고 sub_401430 서브루틴을 호출하여 SMTP 프로토콜을 이용하여 데이터를 전송하고 프로세스는 종료됩니다. sub_401430 에서 SMTP와 메일 헤더 관련 문자열들을 확인할 수 있었습니다.
+이후 whiat1001@gmail.com 문자열을 스택에 푸쉬하고 sub_401430 서브루틴을 호출하여 SMTP 프로토콜을 이용하여 데이터를 전송합니다. 발신하는 계정과 메일 서버는 whiat1001과 gmail.com으로 동일하지만, 발신자 계정을 johnS203@yahoo.com 으로 위조하여 발송한 뒤, 프로세스는 종료됩니다. sub_401430 에서 SMTP와 메일 헤더 관련 문자열들을 확인할 수 있었습니다.
 
 ![mailstrings](https://i.imgur.com/8i8Zlp5.png)
 
@@ -54,7 +54,7 @@ lsasvc.exe 파일을 생성한 뒤 프로세스를 실행합니다.
 # 행위 결과
 
 >1. 무작위 IP로 SMB 접근 시도 및 공유폴더, IPC, SCM 데이터베이스에 접근하여 자가 복제 및 배포
->2. whiat1001@gmail.com 으로 SMTP 프로토콜을 이용하여 메일 발송
+>2. whiat1001@gmail.com 을 johnS203@yahoo.com 으로 위장하여 SMTP 프로토콜을 이용하여 메일 발송
 >3. admin 으로 공유폴더에 접근
 >4. Windows Genuine Logon Manager (wglmgr) 서비스 생성
 >5. Microsoft Windows Genuine Updater (wgudtr) 서비스 생성
