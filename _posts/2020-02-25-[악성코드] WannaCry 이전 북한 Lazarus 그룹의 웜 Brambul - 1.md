@@ -82,4 +82,4 @@ IPC까지 연결이 성공하면 관리자계정으로 SCM 데이터베이스에
 
 이렇게 생성된 서비스와 실행파일 통해 자가 복제 및 전파를 하는 것으로 보이며 첫번째 루틴은 종료가 됩니다.
 
-(2편에서 계속)
+[(2편에서 계속)](https://metaswan.github.io/posts/%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-WannaCry-%EC%9D%B4%EC%A0%84-%EB%B6%81%ED%95%9C-Lazarus-%EA%B7%B8%EB%A3%B9%EC%9D%98-%EC%9B%9C-Brambul-2)
