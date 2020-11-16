@@ -1,13 +1,13 @@
 remote_theme : kirqe/autm-rb
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "metaswan.github.io" # the base hostname & protocol for your site.
+url: "swanleesec.github.io" # the base hostname & protocol for your site.
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: MetaSwan's Lab
-header: Malware researcher, Reverse engineer, Digital forensicator, AI developer.
+title: Swan's Lab
+header: Malware researcher, Reverse engineer, Digital forensicator.
 
 # for welcome page
 # to replace image go to index.html
