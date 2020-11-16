@@ -1,2 +1,2 @@
 
-MetaSwan's Lab Page
+Swan's Lab Page
